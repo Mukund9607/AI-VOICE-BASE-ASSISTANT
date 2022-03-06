@@ -1,2 +1,1 @@
-# AI-VOICE-BASE-ASSISTANT
-AI voice base assistant using python 
+# Alexa-task-2
